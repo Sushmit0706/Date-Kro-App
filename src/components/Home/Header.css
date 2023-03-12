@@ -1,0 +1,17 @@
+.Dating-header{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgb(120, 31, 108);
+    
+}
+
+.Dating-header img{
+    height: 50px;
+    object-fit: contain;
+}
+
+.Header-icons{
+    padding: 20px;
+}
